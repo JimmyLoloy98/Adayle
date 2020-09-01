@@ -13,6 +13,15 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "nilson",
+      "name": "Nils Peters",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/113509?v=4",
+      "profile": "http://nilspeters.info",
+      "contributions": [
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
